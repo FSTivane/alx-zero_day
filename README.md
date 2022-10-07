@@ -1,1 +1,3 @@
-My first readme
+Creating branches
+Merging branches
+solving conflits
